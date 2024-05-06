@@ -1,0 +1,14 @@
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\bin\Debug\net8.0\projeto-hotel.exe
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\bin\Debug\net8.0\projeto-hotel.deps.json
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\bin\Debug\net8.0\projeto-hotel.runtimeconfig.json
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\bin\Debug\net8.0\projeto-hotel.dll
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\bin\Debug\net8.0\projeto-hotel.pdb
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\projeto-hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\projeto-hotel.AssemblyInfoInputs.cache
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\projeto-hotel.AssemblyInfo.cs
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\projeto-hotel.csproj.CoreCompileInputs.cache
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\projeto-hotel.dll
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\refint\projeto-hotel.dll
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\projeto-hotel.pdb
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\projeto-hotel.genruntimeconfig.cache
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\ref\projeto-hotel.dll
