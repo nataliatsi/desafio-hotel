@@ -12,3 +12,4 @@ C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\ob
 C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\projeto-hotel.pdb
 C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\projeto-hotel.genruntimeconfig.cache
 C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\ref\projeto-hotel.dll
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-hotel\obj\Debug\net8.0\projeto-hotel.sourcelink.json

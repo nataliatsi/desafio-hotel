@@ -21,17 +21,6 @@ namespace projeto_hotel.model
             set { suite = value; }
         }
 
-        private int diasReservados;
-        public int DiasReservados
-        {
-            get { return diasReservados; }
-            set { diasReservados = value; }
-        }
-
-        public Reserva(int diasReservados){
-            DiasReservados = diasReservados;
-        }
-
         public void CadastrarHospedes(List<Pessoa> hospedes)
         {
             if (Suite.Capacidade >= hospedes.Count)
@@ -54,12 +43,12 @@ namespace projeto_hotel.model
             return hospedes.Count;
         }
 
-        public decimal CalcularValorDiaria()
+        public decimal CalcularValorDiaria(int diasReservados)
         {
 
             decimal valor = diasReservados * Suite.ValorDiaria;
 
-            if (DiasReservados >= 10)
+            if (diasReservados >= 10)
             {
                 valor *= 0.9m;
             }

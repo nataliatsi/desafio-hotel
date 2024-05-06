@@ -7,12 +7,6 @@ namespace projeto_hotel.model
 {
     public class Suite
     {
-        private int id;
-        public int Id
-        {
-            get { return id; }
-            set { id = value; }
-        }
         
         private string tipoSuite;
         public string TipoSuite
@@ -35,9 +29,8 @@ namespace projeto_hotel.model
             set { valorDiaria = value; }
         }
 
-        public Suite(int id, string tipoSuite, int capacidade, decimal valorDiaria)
+        public Suite(string tipoSuite, int capacidade, decimal valorDiaria)
         {
-            Id = id;
             TipoSuite = tipoSuite;
             Capacidade = capacidade;
             ValorDiaria = valorDiaria;
